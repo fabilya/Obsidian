@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "54f804d7f27fc954",
+    "type": "split",
+    "children": [
+      {
+        "id": "12d7dc17c5d6f2c3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "порядок исполнения операторов в запросе SQL.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79e2c6bde54b4c4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "03d73d1eab522a82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8747c05b39cce143",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c995d1a484c6e45",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d582fa25bb2fccf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b7167b30395fcb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "166503851b6b9cdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76f1445ac155a609",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "порядок исполнения операторов в запросе SQL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25ef77c3b6905107",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "порядок исполнения операторов в запросе SQL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60ae3a84d5f76118",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf8bc9d059b854ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "порядок исполнения операторов в запросе SQL.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8747c05b39cce143",
+  "lastOpenFiles": [
+    "Без названия.md",
+    "порядок исполнения операторов в запросе SQL.md",
+    "SQL/Порядок выполнения операторов SQL.md",
+    "2022-12-26.md",
+    "SQL.md"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "types": {
+    "123": "number",
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "выф": "number"
+  }
+}

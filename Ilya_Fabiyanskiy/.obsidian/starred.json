@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Python",
+      "path": "Python.md"
+    },
+    {
+      "type": "file",
+      "title": "Django",
+      "path": "Django.md"
+    },
+    {
+      "type": "file",
+      "title": "Изучить первым делом",
+      "path": "Изучить первым делом.md"
+    }
+  ]
+}
