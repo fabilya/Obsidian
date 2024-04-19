@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f97e2c46ec9f46ef",
+        "id": "db18d674e57bfb2e",
         "type": "tabs",
         "children": [
           {
-            "id": "5d45f78f218d16e3",
+            "id": "b58617681f1e46b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основные понятия в Python/Функции (function).md",
+                "file": "Основные понятия в Python/Обработка ошибок.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f261c1303cd746f0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "media/Pasted image 20240418160911.png"
               }
             }
           }
@@ -58,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:термины",
+                "query": "__str__",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Основные понятия в Python/Функции (function).md",
+                "file": "Основные понятия в Python/Обработка ошибок.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Основные понятия в Python/Функции (function).md",
+                "file": "Основные понятия в Python/Обработка ошибок.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Основные понятия в Python/Функции (function).md"
+                "file": "Основные понятия в Python/Обработка ошибок.md"
               }
             }
           }
@@ -165,46 +155,46 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5d45f78f218d16e3",
+  "active": "b58617681f1e46b7",
   "lastOpenFiles": [
-    "Заметки по работе/Полезные факты.md",
-    "Основные понятия в Python/Термины.md",
-    "Основные понятия в Python/Функции (function).md",
-    "media/Pasted image 20240418162524.png",
-    "media/Pasted image 20240418160911.png",
-    "media/Снимок экрана 2024-04-18 161237.png",
-    "Основные понятия в Python/Встроенные (типы) классы Python (Built-in Types).md",
-    "media/Pasted image 20240418140515.png",
     "Основные понятия в Python/Встроенные функции Python (Built-in Functions).md",
-    "Основные понятия в Python/Изменение объектов в Python.md",
+    "Заметки по работе/Полезные факты.md",
+    "Основные понятия в Python/Обработка ошибок.md",
+    "Основные понятия в Python/База.canvas",
+    "zip().md",
+    "Основные понятия в Python/Лямбда функции.md",
+    "Преобразование форматов. Сериализаторы.md",
+    "if __name__ == '__main__'.md",
+    "media/Pasted image 20240419175433.png",
+    "Основные понятия в Python/F-строки (f-strings).md",
+    "Основные понятия в Python/Операторы и операнды.md",
+    "Основные понятия в Python/Магические методы.md",
+    "Основные понятия в Python/Выражения и инструкции.md",
+    "Основные понятия в Python/Встроенные (типы) классы Python (Built-in Types).md",
+    "Основные понятия в Python/Функции (function).md",
+    "Основные понятия в Python/Аргументы функций.md",
+    "Основные понятия в Python/Колбэк функции (callback functions).md",
+    "Основные понятия в Python/Параметры функции.md",
+    "Основные понятия в Python/Dictionary (словари).md",
     "Основные понятия в Python/List (списки).md",
     "Основные понятия в Python/Set (наборы).md",
     "Основные понятия в Python/Range (диапазоны).md",
-    "Основные понятия в Python/База.canvas",
-    "Zip.md",
-    "pprint.md",
+    "Основные понятия в Python/Изменение объектов в Python.md",
+    "Основные понятия в Python/Область видимости.md",
     "Основные понятия в Python/Tuple (кортежи).md",
-    "Основные понятия в Python/Dictionary (словари).md",
-    "Основные понятия в Python/Операторы.md",
-    "Основные понятия в Python/Выражения и инструкции.md",
-    "Основные понятия в Python/Магические методы.md",
-    "media/Pasted image 20240418122406.png",
-    "Методы строк.md",
-    "String (строка).md",
-    "GitHub.md",
-    "Преобразование форматов. Сериализаторы.md",
-    "View-классы API.md",
-    "Hotkeys VSCode.md",
-    "VSCode.md",
-    "media/Pasted image 20230220092618.png",
-    "media/Pasted image 20230220092559.png",
-    "media/Pasted image 20230219212932.png",
-    "media/Pasted image 20230219212928.png",
-    "media/Image (5).png",
+    "float.md",
+    "Основные понятия в Python/Термины.md",
+    "media/Pasted image 20240419095718.png",
+    "media/Pasted image 20240419092541.png",
+    "media/Pasted image 20240419092528.png",
+    "media/Pasted image 20240419092518.png",
+    "media/Pasted image 20240419092244.png",
+    "media/Pasted image 20240418160911.png",
+    "media/Pasted image 20240418162524.png",
+    "media/Снимок экрана 2024-04-18 161237.png",
+    "media/Pasted image 20240418140515.png",
     "media",
     "Новая папка",
-    "Python.md",
-    "Без названия 1.md",
     "Linux",
     "Заметки по работе",
     "Без названия.canvas",
