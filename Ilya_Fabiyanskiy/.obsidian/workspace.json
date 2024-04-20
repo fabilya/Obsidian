@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT.md",
+                "file": "Основные понятия в Python/Операторы и операнды.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT.md",
+                "file": "Основные понятия в Python/Операторы и операнды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT.md",
+                "file": "Основные понятия в Python/Операторы и операнды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT.md"
+                "file": "Основные понятия в Python/Операторы и операнды.md"
               }
             }
           }
@@ -157,6 +157,32 @@
   },
   "active": "dbf5e049be411c4f",
   "lastOpenFiles": [
+    "Основные понятия в Python/F-строки (f-strings).md",
+    "Основные понятия в Python/Встроенные функции Python (Built-in Functions).md",
+    "Основные понятия в Python/Обработка ошибок.md",
+    "Основные понятия в Python/Лямбда функции.md",
+    "Основные понятия в Python/Операторы и операнды.md",
+    "media/1 1.svg",
+    "media/Pasted image 20240419095718.png",
+    "media/Pasted image 20240419175433.png",
+    "media/1.svg",
+    "Основные понятия в Python/Выражения и инструкции.md",
+    "Основные понятия в Python/Встроенные (типы) классы Python (Built-in Types).md",
+    "Основные понятия в Python/Функции (function).md",
+    "Основные понятия в Python/Магические методы.md",
+    "Основные понятия в Python/Dictionary (словари).md",
+    "Основные понятия в Python/Tuple (кортежи).md",
+    "Основные понятия в Python/List (списки).md",
+    "Основные понятия в Python/Set (наборы).md",
+    "Основные понятия в Python/Range (диапазоны).md",
+    "Основные понятия в Python/База.canvas",
+    "Основные понятия в Python/Аргументы функций.md",
+    "Основные понятия в Python/Колбэк функции (callback functions).md",
+    "Основные понятия в Python/Параметры функции.md",
+    "Основные понятия в Python/Изменение объектов в Python.md",
+    "Основные понятия в Python/Область видимости.md",
+    "media/Expression.svg",
+    "GIT.md",
     "Ветки в GIT.md",
     "Слияние веток.md",
     "zip().md",
@@ -166,33 +192,7 @@
     "media/PythonSetOpSDifference.png",
     "media/PythonSetOpSubSet2.png",
     "media/superset.png",
-    "media/Image (5).png",
-    "media/Pasted image 20230219212928.png",
-    "GIT.md",
     "GitHub.md",
-    "media/Pasted image 20230220092618.png",
-    "media/Pasted image 20230220092559.png",
-    "media/Image (4).png",
-    "Python.md",
-    "Django.md",
-    "Django Rest Framework.md",
-    "Telegram BOT API.md",
-    "API - интерфейс взаимодействия программ.md",
-    "Виртуальное окружение.md",
-    "Hotkeys.md",
-    "Создание и получение объектов модели.md",
-    "Сайты.md",
-    "Pillow.md",
-    "Страницы ошибок.md",
-    "Тестирование.md",
-    "Клонирование репозитория.md",
-    "Добавление картинок к постам.md",
-    "Unittest.md",
-    "filters and templates.md",
-    "JSON.md",
-    "Миграция данных.md",
-    "порядок исполнения операторов в запросе SQL.md",
-    "Основные понятия в Python/База.canvas",
     "media",
     "Новая папка",
     "Linux",
