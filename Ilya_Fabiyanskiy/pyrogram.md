@@ -1,1 +1,0 @@
-https://docs.pyrogram.org/api/methods/
