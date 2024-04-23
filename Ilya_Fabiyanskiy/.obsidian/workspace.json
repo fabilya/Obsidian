@@ -8,31 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53642ef36c46d633",
+            "id": "703e8df2ab2c9748",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основные понятия в Python/Лямбда функции.md",
+                "file": "Основные понятия в Python/Модули.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fbdc63db60056ec8",
+            "id": "4cac749ec2b6767d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основные понятия в Python/Циклы.md",
+                "file": "Основные понятия в Python/Встроенные модули.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 402.5
   },
   "right": {
     "id": "7b7167b30395fcb7",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Основные понятия в Python/Циклы.md",
+                "file": "Основные понятия в Python/Модули.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Основные понятия в Python/Циклы.md",
+                "file": "Основные понятия в Python/Модули.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Основные понятия в Python/Циклы.md"
+                "file": "Основные понятия в Python/Модули.md"
               }
             }
           }
@@ -168,46 +167,46 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "fbdc63db60056ec8",
+  "active": "703e8df2ab2c9748",
   "lastOpenFiles": [
-    "Основные понятия в Python/Условные инструкции (statements).md",
-    "Основные понятия в Python/Операторы и операнды.md",
-    "Основные понятия в Python/Выражения и инструкции.md",
-    "Основные понятия в Python/Циклы.md",
-    "filter().md",
-    "Основные понятия в Python/Лямбда функции.md",
+    "media/Pasted image 20240423230426.png",
+    "media/Pasted image 20240423230414.png",
+    "Основные понятия в Python/Встроенные модули.md",
+    "Основные понятия в Python/Модули.md",
     "Основные понятия в Python/Встроенные функции Python (Built-in Functions).md",
-    "Основные понятия в Python/Dictionary (словари).md",
-    "Основные понятия в Python/База.canvas",
-    "Основные понятия в Python/Set (наборы).md",
-    "Основные понятия в Python/Встроенные (типы) классы Python (Built-in Types).md",
-    "Основные понятия в Python/Изменение объектов в Python.md",
-    "Основные понятия в Python/Параметры функции.md",
+    "Основные понятия в Python/Декораторы.md",
     "Основные понятия в Python/Распаковка (unpucking).md",
-    "GitHub.md",
-    "zip().md",
+    "Основные понятия в Python/Set (наборы).md",
+    "Основные понятия в Python/Range (диапазоны).md",
+    "Основные понятия в Python/Аргументы функций.md",
+    "Основные понятия в Python/Колбэк функции (callback functions).md",
+    "Основные понятия в Python/Параметры функции.md",
+    "Основные понятия в Python/Изменение объектов в Python.md",
+    "Основные понятия в Python/Функции (function).md",
+    "Основные понятия в Python/Магические методы в классах.md",
+    "Основные понятия в Python/Классы и объекты.md",
+    "Основные понятия в Python/Операторы и операнды.md",
+    "Основные понятия в Python/Dictionary (словари).md",
+    "Основные понятия в Python/Лямбда функции.md",
+    "Основные понятия в Python/Генераторы.md",
+    "Основные понятия в Python/Выражения и инструкции.md",
     "Полезные факты.md",
+    "media/Pasted image 20240423130017.png",
+    "media/Pasted image 20240423125946.png",
+    "^.md",
+    "Основные понятия в Python/Циклы.md",
+    "getsizeof().md",
+    "Основные понятия в Python/Встроенные (типы) классы Python (Built-in Types).md",
+    "Основные понятия в Python/Условные инструкции (statements).md",
+    "Основные понятия в Python/База.canvas",
     "Без названия.canvas",
-    "Условные выражения (тернарные операторы).md",
-    "Основные понятия в Python/Магические методы.md",
-    "Основные понятия в Python/Tuple (кортежи).md",
-    "Основные понятия в Python/List (списки).md",
-    "Основные понятия в Python/Обработка ошибок.md",
     "media/Pasted image 20240422120929.png",
     "media/Pasted image 20240422120108.png",
     "media/Pasted image 20240422114249.png",
     "media/Pasted image 20240422111014.png",
-    "().md",
-    "Основные понятия в Python/Функции (function).md",
-    "Основные понятия в Python/Область видимости.md",
-    "Основные понятия в Python/Range (диапазоны).md",
-    "Основные понятия в Python/Колбэк функции (callback functions).md",
     "media/1 1.svg",
     "media/Pasted image 20240419095718.png",
     "media/Pasted image 20240419175433.png",
-    "media/1.svg",
-    "media/Expression.svg",
-    "media/Pasted image 20230219212932.png",
     "media",
     "Новая папка",
     "Linux",

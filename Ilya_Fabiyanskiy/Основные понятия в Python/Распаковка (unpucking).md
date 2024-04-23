@@ -6,7 +6,7 @@
 
 **Распаковка** - это извлечение значений и присвоение их переменным ^8957f8
 ##### Распаковка списков и кортежей
-```
+```Python
 my_fruits = ['apple', 'banana', 'lime']
 my_apple, my_banana, my_line = my_fruits  
 print(my_apple)  # apple
@@ -16,7 +16,7 @@ print(my_lime)   # lime
 >Нельзя использовать больше элементов чем в списке
 
 **Использование `*` при распаковке**
-```
+```Python
 my_fruits = ['apple', 'banana', 'lime']
 my_apple, *remaining_fruits = my_fruits
 
@@ -25,7 +25,7 @@ print(remaining_fruits)    # ['banana', 'lime']
 ```
 
 ##### Распаковка словаря в именованные аргументы
-```
+```Python
 user_profile = {
 	'name': 'Ilya',
 	'comments_qty': 23,
@@ -43,7 +43,7 @@ print(user_info(**user_profile))) # Распаковка значений сло
 ^5cb962
 
 ##### Распаковка списка в позиционные аргументы
-```
+```Python
 user_data = ['Ilya', 23]
 
 def user_info(name, comments_qty=0):
