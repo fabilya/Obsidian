@@ -1,3 +1,4 @@
+[[Встроенные модули]]
 **JSON (JavaScript Object Notation)** - формат обмена и хранения данных и формат файлов
 В JSON используются только двойные кавычки
 
@@ -44,7 +45,7 @@ print(sneakers['status']['isForSale'])  # True
 ```Python
 result = json.dumps(sneakers, indent=1)
 print(result)
-
+print(type(result))
 #{
 # "id": 235,
 # "brand": "Nike",
@@ -53,6 +54,8 @@ print(result)
 #  "isForSale": true
 # }
 #}
+
+# <class 'str'>
 ```
 
 Конвертация типов Python в типы JSON:
