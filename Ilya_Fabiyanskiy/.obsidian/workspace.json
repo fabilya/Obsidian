@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основные понятия в Python/Встроенные модули.md",
+                "file": "Основные понятия в Python/Встроенные модули/re.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,26 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основные понятия в Python/Встроенные модули/csv.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "037752254cee6198",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Основные понятия в Python/Встроенные модули.md",
+                "file": "Основные понятия в Python/Встроенные модули/json.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Основные понятия в Python/Встроенные модули/csv.md",
+                "file": "Основные понятия в Python/Встроенные модули/re.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Основные понятия в Python/Встроенные модули/csv.md",
+                "file": "Основные понятия в Python/Встроенные модули/re.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Основные понятия в Python/Встроенные модули/csv.md"
+                "file": "Основные понятия в Python/Встроенные модули/re.md"
               }
             }
           }
@@ -180,16 +167,24 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "4989a9f6ebcc3a9a",
+  "active": "d9bf716fdc517510",
   "lastOpenFiles": [
-    "Основные понятия в Python/Встроенные модули.md",
+    "Основные понятия в Python/Встроенные модули/math.md",
+    "Основные понятия в Python/Встроенные модули/re.md",
+    "Основные понятия в Python/Встроенные модули/secrets.md",
+    "Основные понятия в Python/Встроенные модули/random.md",
+    "Основные понятия в Python/Встроенные модули/time.md",
+    "Основные понятия в Python/Встроенные модули/datetime.md",
     "Основные понятия в Python/Встроенные модули/csv.md",
     "Основные понятия в Python/Встроенные модули/zipfile.md",
     "Основные понятия в Python/Встроенные модули/json.md",
     "Основные понятия в Python/Встроенные модули/pathlib.md",
+    "Основные понятия в Python/Встроенные модули.md",
+    "Основные понятия в Python/Рекурсивные функции.md",
+    "Основные понятия в Python/Функции (function).md",
+    "Основные понятия в Python/Атрибуты и методы строк.md",
     "Основные понятия в Python/Магические методы в классах.md",
     "Основные понятия в Python/Встроенные функции Python (Built-in Functions).md",
-    "Основные понятия в Python/Атрибуты и методы строк.md",
     "Основные понятия в Python/База.canvas",
     "zip().md",
     "filter().md",
@@ -201,18 +196,10 @@
     "Основные понятия в Python/Декораторы.md",
     "Основные понятия в Python/Работа с файлами.md",
     "2024-04-24.md",
-    "^.md",
     "Основные понятия в Python/Встроенные модули",
-    "Основные понятия в Python/Циклы.md",
-    "Основные понятия в Python/Модули.md",
-    "`json`.md",
     "media/Pasted image 20240424095415.png",
     "media/Pasted image 20240423230426.png",
     "media/Pasted image 20240423230414.png",
-    "Основные понятия в Python/Set (наборы).md",
-    "Основные понятия в Python/Range (диапазоны).md",
-    "Основные понятия в Python/Аргументы функций.md",
-    "Основные понятия в Python/Колбэк функции (callback functions).md",
     "media/Pasted image 20240423130017.png",
     "media/Pasted image 20240423125946.png",
     "Без названия.canvas",
