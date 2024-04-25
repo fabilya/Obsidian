@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основные понятия в Python/Встроенные модули/re.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4989a9f6ebcc3a9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Основные понятия в Python/Встроенные модули/json.md",
+                "file": "filter().md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Основные понятия в Python/Встроенные модули/re.md",
+                "file": "filter().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Основные понятия в Python/Встроенные модули/re.md",
+                "file": "filter().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Основные понятия в Python/Встроенные модули/re.md"
+                "file": "filter().md"
               }
             }
           }
@@ -169,8 +157,14 @@
   },
   "active": "d9bf716fdc517510",
   "lastOpenFiles": [
-    "Основные понятия в Python/Встроенные модули/math.md",
+    "Полезные факты.md",
+    "Основные понятия в Python/Встроенные модули/smtplib.md",
+    "Шаблоны HTML/Шаблоны HTML.md",
+    "Шаблоны HTML",
+    "Шаблоны HTML.md",
     "Основные понятия в Python/Встроенные модули/re.md",
+    "Основные понятия в Python/Встроенные модули/math.md",
+    "Основные понятия в Python/Встроенные модули.md",
     "Основные понятия в Python/Встроенные модули/secrets.md",
     "Основные понятия в Python/Встроенные модули/random.md",
     "Основные понятия в Python/Встроенные модули/time.md",
@@ -179,7 +173,6 @@
     "Основные понятия в Python/Встроенные модули/zipfile.md",
     "Основные понятия в Python/Встроенные модули/json.md",
     "Основные понятия в Python/Встроенные модули/pathlib.md",
-    "Основные понятия в Python/Встроенные модули.md",
     "Основные понятия в Python/Рекурсивные функции.md",
     "Основные понятия в Python/Функции (function).md",
     "Основные понятия в Python/Атрибуты и методы строк.md",
@@ -188,14 +181,10 @@
     "Основные понятия в Python/База.canvas",
     "zip().md",
     "filter().md",
-    "Полезные факты.md",
     "Основные понятия в Python/Область видимости.md",
     "Основные понятия в Python/Встроенные (типы) классы Python (Built-in Types).md",
     "Основные понятия в Python/F-строки (f-strings).md",
     "Основные понятия в Python/Распаковка (unpucking).md",
-    "Основные понятия в Python/Декораторы.md",
-    "Основные понятия в Python/Работа с файлами.md",
-    "2024-04-24.md",
     "Основные понятия в Python/Встроенные модули",
     "media/Pasted image 20240424095415.png",
     "media/Pasted image 20240423230426.png",
