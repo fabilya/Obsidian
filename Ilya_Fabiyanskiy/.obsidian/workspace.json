@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "filter().md",
+                "file": "Django/Без названия.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "filter().md",
+                "file": "Django/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "filter().md",
+                "file": "Django/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "filter().md"
+                "file": "Django/Без названия.md"
               }
             }
           }
@@ -157,34 +157,40 @@
   },
   "active": "d9bf716fdc517510",
   "lastOpenFiles": [
+    "Django/Создание нового проекта.md",
+    "Django/Без названия.md",
+    "Django/Создание приложение Django.md",
+    "Django/Введение в Django и паттерн MVC.md",
+    "Основные понятия в Python/Встроенные функции/filter().md",
+    "Основные понятия в Python/Встроенные функции Python (Built-in Functions).md",
+    "Основные понятия в Python/Встроенные функции",
+    "Основные понятия в Python/Встроенные модули/pathlib.md",
+    "Основные понятия в Python/Встроенные модули.md",
+    "Основные понятия в Python/Встроенные функции/zip().md",
     "Полезные факты.md",
+    "media/Pasted image 20240425131846.png",
+    "media/Pasted image 20240425130807.png",
+    "Основные понятия в Python/PIP - Package manager for Python.md",
+    "Django",
+    "media/Pasted image 20240425115923.png",
+    "Основные понятия в Python/Встроенные модули/array (массивы).md",
+    "Основные понятия в Python/Встроенные модули/webbrowser.md",
+    "Основные понятия в Python/Встроенные модули/sys.md",
+    "media/Pasted image 20240425114159.png",
+    "Основные понятия в Python/Рекурсивные функции.md",
+    "Основные понятия в Python/Встроенные модули/math.md",
+    "Основные понятия в Python/Встроенные модули/re.md",
     "Основные понятия в Python/Встроенные модули/smtplib.md",
+    "Основные понятия в Python/Встроенные модули/sqlite3.md",
     "Шаблоны HTML/Шаблоны HTML.md",
     "Шаблоны HTML",
     "Шаблоны HTML.md",
-    "Основные понятия в Python/Встроенные модули/re.md",
-    "Основные понятия в Python/Встроенные модули/math.md",
-    "Основные понятия в Python/Встроенные модули.md",
     "Основные понятия в Python/Встроенные модули/secrets.md",
     "Основные понятия в Python/Встроенные модули/random.md",
     "Основные понятия в Python/Встроенные модули/time.md",
     "Основные понятия в Python/Встроенные модули/datetime.md",
     "Основные понятия в Python/Встроенные модули/csv.md",
-    "Основные понятия в Python/Встроенные модули/zipfile.md",
-    "Основные понятия в Python/Встроенные модули/json.md",
-    "Основные понятия в Python/Встроенные модули/pathlib.md",
-    "Основные понятия в Python/Рекурсивные функции.md",
-    "Основные понятия в Python/Функции (function).md",
-    "Основные понятия в Python/Атрибуты и методы строк.md",
-    "Основные понятия в Python/Магические методы в классах.md",
-    "Основные понятия в Python/Встроенные функции Python (Built-in Functions).md",
     "Основные понятия в Python/База.canvas",
-    "zip().md",
-    "filter().md",
-    "Основные понятия в Python/Область видимости.md",
-    "Основные понятия в Python/Встроенные (типы) классы Python (Built-in Types).md",
-    "Основные понятия в Python/F-строки (f-strings).md",
-    "Основные понятия в Python/Распаковка (unpucking).md",
     "Основные понятия в Python/Встроенные модули",
     "media/Pasted image 20240424095415.png",
     "media/Pasted image 20240423230426.png",
@@ -193,10 +199,6 @@
     "media/Pasted image 20240423125946.png",
     "Без названия.canvas",
     "media/Pasted image 20240422120929.png",
-    "media/Pasted image 20240422120108.png",
-    "media/Pasted image 20240422114249.png",
-    "media/Pasted image 20240422111014.png",
-    "media/1 1.svg",
     "media",
     "Новая папка",
     "Linux",
