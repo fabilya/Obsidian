@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Без названия.md",
+                "file": "Django/Справочник.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Без названия.md",
+                "file": "Django/Справочник.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Без названия.md",
+                "file": "Django/Справочник.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Без названия.md"
+                "file": "Django/Справочник.md"
               }
             }
           }
@@ -157,8 +157,10 @@
   },
   "active": "d9bf716fdc517510",
   "lastOpenFiles": [
+    "Django/Полезные факты.md",
+    "Django/Справочник.md",
     "Django/Создание нового проекта.md",
-    "Django/Без названия.md",
+    "Без названия.canvas",
     "Django/Создание приложение Django.md",
     "Django/Введение в Django и паттерн MVC.md",
     "Основные понятия в Python/Встроенные функции/filter().md",
@@ -189,7 +191,6 @@
     "Основные понятия в Python/Встроенные модули/random.md",
     "Основные понятия в Python/Встроенные модули/time.md",
     "Основные понятия в Python/Встроенные модули/datetime.md",
-    "Основные понятия в Python/Встроенные модули/csv.md",
     "Основные понятия в Python/База.canvas",
     "Основные понятия в Python/Встроенные модули",
     "media/Pasted image 20240424095415.png",
@@ -197,7 +198,6 @@
     "media/Pasted image 20240423230414.png",
     "media/Pasted image 20240423130017.png",
     "media/Pasted image 20240423125946.png",
-    "Без названия.canvas",
     "media/Pasted image 20240422120929.png",
     "media",
     "Новая папка",
