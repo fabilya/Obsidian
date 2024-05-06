@@ -5,7 +5,7 @@
 [[Циклы#^0835eb|Итерация по ключам с значениями в словаре]]
 
 Структура и синтаксис
-```
+```Python
 my_motorbike = {
 	'brand': 'Ducati',  # Ключи уникальны в словаре, если одинаковые - перезапишет
 	'price': 25000,
@@ -17,7 +17,7 @@ my_motorbike = {
 У элементов в словаре (`ключ: значение`) ***нет уникальных индексов*** (как например есть в списках)
 
 **Получение значений** (всегда стоит использовать метод [[#^0f7d4d |get]])
-```
+```Python
 my_motorbike = {
 	'brand': 'Ducati',
 	'price': 25000,
@@ -32,28 +32,28 @@ print(my_motorbike['price'])
 ```
 
 **Изменение значений**
-```
+```Python
 my_motorbike['price'] = 20000
 print(my_motorbike['price'])
 # 20000
 ```
 
 **Добавление новых элементов**
-```
+```Python
 my_motorbike['is_new'] = True  # если такой ключ существует - будет перезаписан
 print(my_motorbike)
 # {'brand': 'Ducati', 'price': 20000, 'engine_vol': 1.2, 'is_new': True,}
 ```
 
 **Удаление элементов**
-```
+```Python
 del my_motorbike['engine_vol']
 print(my_motorbike)
 # {'brand': 'Ducati', 'price': 20000, 'is_new': True}
 ```
 
 **Доступ к значению элемента с помощью переменной**
-```
+```Python
 key_name = 'brand'
 my_motorbike[key_name] = 'BMW'
 print(my_motorbike)
@@ -61,7 +61,7 @@ print(my_motorbike)
 ```
 
 **Вложенные словари**
-```
+```Python
 my_motorbike = {
 	'brand': 'Ducati',
 	'engine_vol': 1.2,
@@ -78,7 +78,7 @@ print(my_motorbike['price_info']['is_available'])
 ```
 
 **Использование переменных**
-```
+```Python
 brand = 'Ducati'
 bike_price = 25000
 engine_volume = 1.2
@@ -94,13 +94,13 @@ print(my_motorbike)
 ```
 
 **Длина словаря**
-```
+```Python
 print(len(my_motorbike))  # считает количество пар ключей (ключ: значение) словаря
 # 3
 ```
 
 Несуществующие ключи
-```
+```Python
 print(my_motorbike['model'])    # такого ключа нет в словаре
 # KeyError: 'model'             # Ошибка ключа, если не обработать, код остановится
 ```
@@ -108,19 +108,19 @@ print(my_motorbike['model'])    # такого ключа нет в словар
 **Что делать если не уверены есть ли определенный ключ в словаре?**
 В таком случае нужно использовать метод `get` для получения значений ключей
 Это более предпочтительный вариант получения значения ключа в словаре 
-```
+```Python
 print(my_motorbike.get('model'))
 # None                              # Ошибки ключа нет
 ```
 
 Задать значение по умолчанию для **ключа** если он отсутствует
-```
+```Python
 print(get_motorbike.get('model', 0))
 # 0
 ```
 
 Метод `get` для получения значений ключей ^0f7d4d
-```
+```Python
 print(get_motorbike.get('brand'))
 # Ducati
 print(get_motorbike.get('price'))

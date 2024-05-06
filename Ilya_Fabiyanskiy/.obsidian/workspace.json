@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "764bf3476ad9178a",
+        "id": "7fc061c9e544d8a1",
         "type": "tabs",
         "children": [
           {
-            "id": "d9bf716fdc517510",
+            "id": "f5219e3f791c491a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Справочник.md",
+                "file": "Интересные задачи с codewars.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Справочник.md",
+                "file": "Интересные задачи с codewars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Справочник.md",
+                "file": "Интересные задачи с codewars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Справочник.md"
+                "file": "Интересные задачи с codewars.md"
               }
             }
           }
@@ -155,56 +155,57 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d9bf716fdc517510",
+  "active": "f5219e3f791c491a",
   "lastOpenFiles": [
-    "Django/Полезные факты.md",
-    "Django/Справочник.md",
-    "Django/Создание нового проекта.md",
-    "Без названия.canvas",
-    "Django/Создание приложение Django.md",
-    "Django/Введение в Django и паттерн MVC.md",
-    "Основные понятия в Python/Встроенные функции/filter().md",
-    "Основные понятия в Python/Встроенные функции Python (Built-in Functions).md",
-    "Основные понятия в Python/Встроенные функции",
-    "Основные понятия в Python/Встроенные модули/pathlib.md",
-    "Основные понятия в Python/Встроенные модули.md",
-    "Основные понятия в Python/Встроенные функции/zip().md",
+    "Интересные задачи с codewars.md",
+    "NumPy.md",
     "Полезные факты.md",
-    "media/Pasted image 20240425131846.png",
-    "media/Pasted image 20240425130807.png",
-    "Основные понятия в Python/PIP - Package manager for Python.md",
-    "Django",
-    "media/Pasted image 20240425115923.png",
+    "Основные понятия в Python/Циклы.md",
+    "Основные понятия в Python/Dictionary (словари).md",
+    "Основные понятия в Python/Распаковка (unpucking).md",
+    "Основные понятия в Python/Декораторы.md",
+    "Основные понятия в Python/Генераторы.md",
+    "Основные понятия в Python/Выражения и инструкции.md",
+    "Основные понятия в Python/Встроенные модули/pathlib.md",
+    "Основные понятия в Python/Встроенные модули/statistics.md",
+    "Основные понятия в Python/Встроенные модули/math.md",
+    "Основные понятия в Python/Встроенные функции/map().md",
+    "Основные понятия в Python/База.canvas",
+    "Основные понятия в Python/Операторы и операнды.md",
+    "Основные понятия в Python/Встроенные модули/datetime.md",
+    "Основные понятия в Python/Встроенные модули/time.md",
+    "Основные понятия в Python/Встроенные модули/random.md",
+    "Основные понятия в Python/Встроенные модули/secrets.md",
+    "Основные понятия в Python/Встроенные модули/smtplib.md",
+    "Основные понятия в Python/Встроенные модули/sqlite3.md",
     "Основные понятия в Python/Встроенные модули/array (массивы).md",
     "Основные понятия в Python/Встроенные модули/webbrowser.md",
     "Основные понятия в Python/Встроенные модули/sys.md",
-    "media/Pasted image 20240425114159.png",
-    "Основные понятия в Python/Рекурсивные функции.md",
-    "Основные понятия в Python/Встроенные модули/math.md",
+    "Основные понятия в Python/Встроенные модули.md",
     "Основные понятия в Python/Встроенные модули/re.md",
-    "Основные понятия в Python/Встроенные модули/smtplib.md",
-    "Основные понятия в Python/Встроенные модули/sqlite3.md",
-    "Шаблоны HTML/Шаблоны HTML.md",
-    "Шаблоны HTML",
-    "Шаблоны HTML.md",
-    "Основные понятия в Python/Встроенные модули/secrets.md",
-    "Основные понятия в Python/Встроенные модули/random.md",
-    "Основные понятия в Python/Встроенные модули/time.md",
-    "Основные понятия в Python/Встроенные модули/datetime.md",
-    "Основные понятия в Python/База.canvas",
+    "Основные понятия в Python/Лямбда функции.md",
+    "media/Pasted image 20240501182748.png",
+    "media/Pasted image 20240501182338.png",
+    "media/Pasted image 20240501182142.png",
+    "NumPy",
+    "media/Pasted image 20240427171110.png",
+    "Frontend",
+    "Без названия.canvas",
+    "Основные понятия в Python/Встроенные функции",
+    "media/Pasted image 20240425131846.png",
+    "media/Pasted image 20240425130807.png",
+    "Django",
+    "media/Pasted image 20240425115923.png",
+    "media/Pasted image 20240425114159.png",
+    "Frontend/Шаблоны HTML",
     "Основные понятия в Python/Встроенные модули",
     "media/Pasted image 20240424095415.png",
     "media/Pasted image 20240423230426.png",
-    "media/Pasted image 20240423230414.png",
-    "media/Pasted image 20240423130017.png",
-    "media/Pasted image 20240423125946.png",
-    "media/Pasted image 20240422120929.png",
     "media",
     "Новая папка",
     "Linux",
     "Заметки по работе",
     "Без названия 1.canvas",
-    "Основные понятия в Python",
     "Без названия 3.canvas",
     "Без названия 2.canvas"
   ]
