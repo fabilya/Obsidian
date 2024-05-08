@@ -1,1 +1,0 @@
-Для отправки письма - https://reallygoodemails.com/emails/make-specialty-coffee-at-homeinstantly

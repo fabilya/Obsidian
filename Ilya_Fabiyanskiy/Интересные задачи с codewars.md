@@ -42,3 +42,46 @@ def update_light(current):
 ```
 
 ___
+
+[Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003/solutions/python)
+Bob is working as a bus driver. However, he has become extremely popular amongst the city's residents. With so many passengers wanting to get aboard his bus, he sometimes has to face the problem of not enough space left on the bus! He wants you to write a simple program telling him if he will be able to fit all the passengers.
+
+### Task Overview:
+
+You have to write a function that accepts three parameters:
+
+- `cap` is the amount of people the bus can hold excluding the driver.
+- `on` is the number of people on the bus excluding the driver.
+- `wait` is the number of people waiting to get on to the bus excluding the driver.
+
+If there is enough space, return 0, and if there isn't, return the number of passengers he can't take.
+
+### Решение с использованием `max()`
+```Python
+def enough(cap, on, wait):
+    return max(0, wait - (cap - on))
+```
+
+___
+
+[Is it a palindrome?](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/solutions/python)
+Write a function that checks if a given string (case insensitive) is a [palindrome](https://en.wikipedia.org/wiki/Palindrome).
+
+A palindrome is a word, number, phrase, or other sequence of symbols that reads the same backwards as forwards, such as `madam` or `racecar`.
+
+```Python
+def is_palindrome(s):  
+    start = 0  # Указатель 1 начинает начало строки
+    end = len(s) - 1  # Указатель 2 начинается в конце строки
+    while start < end: # Пока первый указатель меньше второго 
+    # Сравнивает значения первого и последнего символов строки
+        if s[start] == s[end]:  
+            start += 1 # Увеличивает положение указателя 1
+            end -= 1 # Уменьшает положение указателя 1
+            continue  
+        else: # Возвращает false, если значения не совпадают
+            return False  
+    return True # Если цикл while прерывается, возвращает true
+```
+
+___
