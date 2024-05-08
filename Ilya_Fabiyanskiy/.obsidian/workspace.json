@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Полезные факты.md",
+                "file": "NumPy.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Полезные факты.md",
+                "file": "NumPy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Полезные факты.md",
+                "file": "NumPy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Полезные факты.md"
+                "file": "NumPy.md"
               }
             }
           }
@@ -170,33 +170,33 @@
   },
   "active": "a74502eb696af668",
   "lastOpenFiles": [
-    "Django/Создание нового проекта.md",
-    "Django/Введение в Django и паттерн MVC.md",
-    "Frontend/Полезные ссылки.md",
-    "Django/Полезные факты.md",
-    "Django/Шаблонизатор Django.md",
-    "Django/Справочник.md",
-    "Ветки в GIT.md",
-    "Слияние веток.md",
-    "GIT.md",
-    "GitHub.md",
-    "NumPy.md",
     "Интересные задачи с codewars.md",
     "Полезные факты.md",
-    "Pandas.md",
-    "Что надо изучить.md",
-    "Linux/Термины.md",
-    "Frontend/Шаблоны HTML/Шаблоны HTML.md",
-    "Основные понятия в Python/Лямбда функции.md",
+    "Django/Введение в Django и паттерн MVC.md",
+    "Django/Создание нового проекта.md",
+    "Django/Полезные факты.md",
+    "Основные понятия в Python/База.canvas",
+    "Основные понятия в Python/Set (наборы).md",
+    "Основные понятия в Python/Range (диапазоны).md",
+    "Основные понятия в Python/F-строки (f-strings).md",
+    "Основные понятия в Python/Встроенные (типы) классы Python (Built-in Types).md",
     "Основные понятия в Python/Аргументы функций.md",
     "Основные понятия в Python/Колбэк функции (callback functions).md",
     "Основные понятия в Python/Параметры функции.md",
     "Основные понятия в Python/Изменение объектов в Python.md",
+    "Основные понятия в Python/Условные инструкции (statements).md",
+    "Основные понятия в Python/Встроенные функции Python (Built-in Functions).md",
+    "Основные понятия в Python/Магические методы в классах.md",
+    "Основные понятия в Python/Работа с файлами.md",
+    "Основные понятия в Python/Модули.md",
+    "Основные понятия в Python/Декораторы.md",
+    "Основные понятия в Python/Распаковка (unpucking).md",
     "Основные понятия в Python/Область видимости.md",
-    "Основные понятия в Python/Встроенные (типы) классы Python (Built-in Types).md",
-    "Основные понятия в Python/F-строки (f-strings).md",
     "Основные понятия в Python/Обработка ошибок.md",
-    "Основные понятия в Python/База.canvas",
+    "Основные понятия в Python/List (списки).md",
+    "Основные понятия в Python/Tuple (кортежи).md",
+    "Основные понятия в Python/Лямбда функции.md",
+    "Основные понятия в Python/Генераторы.md",
     "media/Pasted image 20240501182748.png",
     "media/Pasted image 20240501182338.png",
     "media/Pasted image 20240501182142.png",

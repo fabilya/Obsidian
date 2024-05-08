@@ -5,7 +5,7 @@
 >Написать функцию, которая будет фильтровать список с учетом второго параметра (`int`, `bool`, `str` и т.д.) 
 
 Классическое решение с помощью строенной функции `filter()`
-```
+```Python
 def filter_list(list_to_filter, value_type):
 	 def check_element_type(elem):
 		 return type(elem) is value_type
@@ -16,7 +16,7 @@ print(filter_list([1, 10, 'abc', True, 5.5], int))
 ```
 
 С помощью лямбда функции (`lambda function`)
-```
+```Python
 def filter_list(list_to_filter, value_type):
 	return list(filter(lamda elem: type(elem) is value_type, list_to_filter))
 

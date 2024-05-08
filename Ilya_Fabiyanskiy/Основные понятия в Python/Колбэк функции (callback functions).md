@@ -1,7 +1,7 @@
 Это функция которая **передается как аргумент в другую функцию** и там **вызывается**
 
  Пример №1
-```
+```Python
 def other_fn():
 	 # some actions...
 	 pass
@@ -16,7 +16,7 @@ fn_with_callback(other_fn)
 ```
 
 Пример №2
-```
+```Python
 def print_number_info(num):
 	if (num % 2) == 0:
 		print("Entered number is even")

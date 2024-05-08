@@ -4,7 +4,7 @@
 
 Порядок элементов в списке ***имеет значение***
 
-```
+```Python
 my_fruits = ['apple', 'banana', 'lime']
 posts_ids = [151, 254, 732, 112]
 user_inputs = [True, 'hi!', '😁', 10.5]
@@ -12,7 +12,7 @@ user_inputs = [True, 'hi!', '😁', 10.5]
 
 Изменение значений
 
-```
+```Python
 posts_ids = [151, 254, 732, 112]
 
 posts_ids[0] = 555
@@ -27,7 +27,7 @@ print(posts_ids)
 
 ###### Список словарей
 
-```
+```Python
 users = [
 	{
 		'user_id': 134,
@@ -45,7 +45,7 @@ print(users[1]['user_id'])  # 831
 ```
 ###### Использование переменных
 
-```
+```Python
 my_fruit = 'apple'
 other_fruit = 'banana'
 new_fruit = 'lime'
