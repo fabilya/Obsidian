@@ -9,5 +9,7 @@
 
 ![Без имени-1](https://github.com/fabilya/Obsidian/assets/105780672/4b36c939-3035-4b28-bde8-98cc278bfa7f)
 
+Мои заметки в виде графика зависимостей
+
 ![image](https://github.com/fabilya/Obsidian/assets/105780672/f370bb0f-b73b-43e1-9a31-5e0c9df28ad9)
 

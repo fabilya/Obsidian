@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основные понятия в Python/Рекурсивные функции.md",
+                "file": "Основные понятия в Python/Встроенные модули.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "a74502eb696af668",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Основные понятия в Python/Встроенные модули.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Основные понятия в Python/Встроенные модули.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Основные понятия в Python/Встроенные модули.md"
+              }
             }
           }
         ],
@@ -160,35 +155,35 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a74502eb696af668",
+  "active": "f5219e3f791c491a",
   "lastOpenFiles": [
-    "NumPy.md",
-    "Интересные задачи с codewars.md",
-    "Полезные факты.md",
-    "Django/Введение в Django и паттерн MVC.md",
-    "Django/Создание нового проекта.md",
-    "Django/Полезные факты.md",
-    "Основные понятия в Python/База.canvas",
-    "Основные понятия в Python/Set (наборы).md",
-    "Основные понятия в Python/Range (диапазоны).md",
-    "Основные понятия в Python/F-строки (f-strings).md",
-    "Основные понятия в Python/Встроенные (типы) классы Python (Built-in Types).md",
-    "Основные понятия в Python/Аргументы функций.md",
-    "Основные понятия в Python/Колбэк функции (callback functions).md",
-    "Основные понятия в Python/Параметры функции.md",
-    "Основные понятия в Python/Изменение объектов в Python.md",
-    "Основные понятия в Python/Условные инструкции (statements).md",
+    "Основные понятия в Python/Атрибуты и методы строк.md",
+    "Основные понятия в Python/Рекурсивные функции.md",
+    "Основные понятия в Python/Встроенные модули/pathlib.md",
+    "Основные понятия в Python/Встроенные модули.md",
+    "Основные понятия в Python/PIP - Package manager for Python.md",
     "Основные понятия в Python/Встроенные функции Python (Built-in Functions).md",
     "Основные понятия в Python/Магические методы в классах.md",
     "Основные понятия в Python/Работа с файлами.md",
-    "Основные понятия в Python/Модули.md",
-    "Основные понятия в Python/Декораторы.md",
-    "Основные понятия в Python/Распаковка (unpucking).md",
-    "Основные понятия в Python/Область видимости.md",
-    "Основные понятия в Python/Обработка ошибок.md",
-    "Основные понятия в Python/List (списки).md",
-    "Основные понятия в Python/Tuple (кортежи).md",
+    "Основные понятия в Python/Dictionary (словари).md",
+    "Основные понятия в Python/Выражения и инструкции.md",
     "Основные понятия в Python/Лямбда функции.md",
+    "Основные понятия в Python/Tuple (кортежи).md",
+    "Основные понятия в Python/Встроенные функции/filter().md",
+    "Основные понятия в Python/Встроенные функции/zip().md",
+    "Основные понятия в Python/Изменение объектов в Python.md",
+    "Основные понятия в Python/Параметры функции.md",
+    "Основные понятия в Python/Обработка ошибок.md",
+    "Основные понятия в Python/Область видимости.md",
+    "Основные понятия в Python/База.canvas",
+    "Основные понятия в Python/Встроенные модули/statistics.md",
+    "Основные понятия в Python/Встроенные модули/math.md",
+    "Основные понятия в Python/Функции (function).md",
+    "Основные понятия в Python/Операторы и операнды.md",
+    "Основные понятия в Python/List (списки).md",
+    "Основные понятия в Python/Колбэк функции (callback functions).md",
+    "Основные понятия в Python/Range (диапазоны).md",
+    "NumPy.md",
     "media/Pasted image 20240501182748.png",
     "media/Pasted image 20240501182338.png",
     "media/Pasted image 20240501182142.png",
