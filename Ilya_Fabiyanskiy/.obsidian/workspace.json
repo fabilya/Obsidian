@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основные понятия в Python/Встроенные модули.md",
+                "file": "Docker/Терминология и ключевые функции Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51f9c974f235e89a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Терминология и ключевые функции Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Основные понятия в Python/Встроенные модули.md",
+                "file": "Docker/Терминология и ключевые функции Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Основные понятия в Python/Встроенные модули.md",
+                "file": "Docker/Терминология и ключевые функции Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Основные понятия в Python/Встроенные модули.md"
+                "file": "Docker/Терминология и ключевые функции Docker.md"
               }
             }
           }
@@ -157,10 +169,22 @@
   },
   "active": "f5219e3f791c491a",
   "lastOpenFiles": [
+    "CLIENT.md",
+    "Docker/Терминология и ключевые функции Docker.md",
+    "media/1695617955188.gif",
+    "Docker/План изучения Docker.md",
+    "media/superset.png",
+    "media/Pasted image 20230219212932.png",
+    "media/1 1.svg",
+    "media/Pasted image 20240501182748.png",
+    "media/1695617955188 1.gif",
+    "Docker/Без названия.canvas",
+    "Интересные задачи с codewars.md",
+    "Docker",
+    "Основные понятия в Python/Встроенные модули.md",
     "Основные понятия в Python/Атрибуты и методы строк.md",
     "Основные понятия в Python/Рекурсивные функции.md",
     "Основные понятия в Python/Встроенные модули/pathlib.md",
-    "Основные понятия в Python/Встроенные модули.md",
     "Основные понятия в Python/PIP - Package manager for Python.md",
     "Основные понятия в Python/Встроенные функции Python (Built-in Functions).md",
     "Основные понятия в Python/Магические методы в классах.md",
@@ -179,32 +203,19 @@
     "Основные понятия в Python/Встроенные модули/statistics.md",
     "Основные понятия в Python/Встроенные модули/math.md",
     "Основные понятия в Python/Функции (function).md",
-    "Основные понятия в Python/Операторы и операнды.md",
-    "Основные понятия в Python/List (списки).md",
-    "Основные понятия в Python/Колбэк функции (callback functions).md",
-    "Основные понятия в Python/Range (диапазоны).md",
-    "NumPy.md",
-    "media/Pasted image 20240501182748.png",
     "media/Pasted image 20240501182338.png",
     "media/Pasted image 20240501182142.png",
     "NumPy",
     "media/Pasted image 20240427171110.png",
     "Frontend",
-    "Без названия.canvas",
     "Основные понятия в Python/Встроенные функции",
     "media/Pasted image 20240425131846.png",
-    "media/Pasted image 20240425130807.png",
     "Django",
-    "media/Pasted image 20240425115923.png",
-    "media/Pasted image 20240425114159.png",
     "Frontend/Шаблоны HTML",
     "Основные понятия в Python/Встроенные модули",
-    "media/Pasted image 20240424095415.png",
-    "media/Pasted image 20240423230426.png",
     "media",
     "Новая папка",
     "Linux",
-    "Заметки по работе",
     "Без названия 1.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas"
