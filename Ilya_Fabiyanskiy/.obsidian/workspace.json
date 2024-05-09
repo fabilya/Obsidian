@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Скачивание образов и создание контейнеров.md",
+                "file": "Docker/Создание образов с помощью Dockerfile.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Скачивание образов и создание контейнеров.md",
+                "file": "Docker/Создание образов с помощью Dockerfile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Скачивание образов и создание контейнеров.md",
+                "file": "Docker/Создание образов с помощью Dockerfile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Скачивание образов и создание контейнеров.md"
+                "file": "Docker/Создание образов с помощью Dockerfile.md"
               }
             }
           }
@@ -167,18 +167,29 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f5219e3f791c491a",
+  "active": "8747c05b39cce143",
   "lastOpenFiles": [
+    "Docker/План изучения Docker.md",
+    "Docker/Создание образов с помощью Dockerfile.md",
     "Docker/Терминология и ключевые функции Docker.md",
     "Docker/Скачивание образов и создание контейнеров.md",
-    "Docker/План изучения Docker.md",
+    "media/Pasted image 20240509154723.png",
+    "Присоединение томов к контейнерам для сохранения данных.md",
+    "Django/Полезные факты.md",
+    "Django/Создание нового проекта.md",
+    "Полезные факты.md",
+    "Django/Введение в Django и паттерн MVC.md",
+    "Ветки в GIT.md",
+    "Слияние веток.md",
+    "GIT.md",
+    "GitHub.md",
+    "NumPy.md",
+    "Интересные задачи с codewars.md",
     "Docker/Установка и запуск Docker.md",
     "media/523.png",
     "media/Pasted image 20240509105224.png",
     "media/Pasted image 20240509104628.png",
     "Основные понятия в Python/Лямбда функции.md",
-    "Django/Полезные факты.md",
-    "Django/Создание нового проекта.md",
     "Основные понятия в Python/Работа с файлами.md",
     "Основные понятия в Python/Модули.md",
     "Основные понятия в Python/Рекурсивные функции.md",
@@ -188,26 +199,15 @@
     "Основные понятия в Python/List (списки).md",
     "Основные понятия в Python/Tuple (кортежи).md",
     "Основные понятия в Python/Выражения и инструкции.md",
-    "Основные понятия в Python/Изменение объектов в Python.md",
-    "Основные понятия в Python/Область видимости.md",
-    "Основные понятия в Python/Колбэк функции (callback functions).md",
-    "Основные понятия в Python/Аргументы функций.md",
-    "Основные понятия в Python/Range (диапазоны).md",
     "Docker/Без названия.canvas",
-    "CLIENT.md",
     "media/1695617955188.gif",
     "media/superset.png",
     "media/Pasted image 20230219212932.png",
     "media/1 1.svg",
     "media/Pasted image 20240501182748.png",
     "media/1695617955188 1.gif",
-    "Интересные задачи с codewars.md",
     "Docker",
-    "Основные понятия в Python/Встроенные модули.md",
-    "Основные понятия в Python/Встроенные модули/pathlib.md",
-    "Основные понятия в Python/Встроенные функции Python (Built-in Functions).md",
     "Основные понятия в Python/База.canvas",
-    "media/Pasted image 20240501182338.png",
     "NumPy",
     "Frontend",
     "Основные понятия в Python/Встроенные функции",
