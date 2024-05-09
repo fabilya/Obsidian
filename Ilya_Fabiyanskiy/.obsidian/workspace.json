@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Терминология и ключевые функции Docker.md",
+                "file": "Docker/Скачивание образов и создание контейнеров.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 251.5
   },
   "right": {
     "id": "7b7167b30395fcb7",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Терминология и ключевые функции Docker.md",
+                "file": "Docker/Скачивание образов и создание контейнеров.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Терминология и ключевые функции Docker.md",
+                "file": "Docker/Скачивание образов и создание контейнеров.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Терминология и ключевые функции Docker.md"
+                "file": "Docker/Скачивание образов и создание контейнеров.md"
               }
             }
           }
@@ -169,47 +169,48 @@
   },
   "active": "f5219e3f791c491a",
   "lastOpenFiles": [
-    "CLIENT.md",
     "Docker/Терминология и ключевые функции Docker.md",
-    "media/1695617955188.gif",
+    "Docker/Скачивание образов и создание контейнеров.md",
     "Docker/План изучения Docker.md",
+    "Docker/Установка и запуск Docker.md",
+    "media/523.png",
+    "media/Pasted image 20240509105224.png",
+    "media/Pasted image 20240509104628.png",
+    "Основные понятия в Python/Лямбда функции.md",
+    "Django/Полезные факты.md",
+    "Django/Создание нового проекта.md",
+    "Основные понятия в Python/Работа с файлами.md",
+    "Основные понятия в Python/Модули.md",
+    "Основные понятия в Python/Рекурсивные функции.md",
+    "Основные понятия в Python/Атрибуты и методы строк.md",
+    "Основные понятия в Python/Магические методы в классах.md",
+    "Основные понятия в Python/PIP - Package manager for Python.md",
+    "Основные понятия в Python/List (списки).md",
+    "Основные понятия в Python/Tuple (кортежи).md",
+    "Основные понятия в Python/Выражения и инструкции.md",
+    "Основные понятия в Python/Изменение объектов в Python.md",
+    "Основные понятия в Python/Область видимости.md",
+    "Основные понятия в Python/Колбэк функции (callback functions).md",
+    "Основные понятия в Python/Аргументы функций.md",
+    "Основные понятия в Python/Range (диапазоны).md",
+    "Docker/Без названия.canvas",
+    "CLIENT.md",
+    "media/1695617955188.gif",
     "media/superset.png",
     "media/Pasted image 20230219212932.png",
     "media/1 1.svg",
     "media/Pasted image 20240501182748.png",
     "media/1695617955188 1.gif",
-    "Docker/Без названия.canvas",
     "Интересные задачи с codewars.md",
     "Docker",
     "Основные понятия в Python/Встроенные модули.md",
-    "Основные понятия в Python/Атрибуты и методы строк.md",
-    "Основные понятия в Python/Рекурсивные функции.md",
     "Основные понятия в Python/Встроенные модули/pathlib.md",
-    "Основные понятия в Python/PIP - Package manager for Python.md",
     "Основные понятия в Python/Встроенные функции Python (Built-in Functions).md",
-    "Основные понятия в Python/Магические методы в классах.md",
-    "Основные понятия в Python/Работа с файлами.md",
-    "Основные понятия в Python/Dictionary (словари).md",
-    "Основные понятия в Python/Выражения и инструкции.md",
-    "Основные понятия в Python/Лямбда функции.md",
-    "Основные понятия в Python/Tuple (кортежи).md",
-    "Основные понятия в Python/Встроенные функции/filter().md",
-    "Основные понятия в Python/Встроенные функции/zip().md",
-    "Основные понятия в Python/Изменение объектов в Python.md",
-    "Основные понятия в Python/Параметры функции.md",
-    "Основные понятия в Python/Обработка ошибок.md",
-    "Основные понятия в Python/Область видимости.md",
     "Основные понятия в Python/База.canvas",
-    "Основные понятия в Python/Встроенные модули/statistics.md",
-    "Основные понятия в Python/Встроенные модули/math.md",
-    "Основные понятия в Python/Функции (function).md",
     "media/Pasted image 20240501182338.png",
-    "media/Pasted image 20240501182142.png",
     "NumPy",
-    "media/Pasted image 20240427171110.png",
     "Frontend",
     "Основные понятия в Python/Встроенные функции",
-    "media/Pasted image 20240425131846.png",
     "Django",
     "Frontend/Шаблоны HTML",
     "Основные понятия в Python/Встроенные модули",
