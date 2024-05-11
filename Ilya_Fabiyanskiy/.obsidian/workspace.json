@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7fc061c9e544d8a1",
+        "id": "e197157a4e2d7ba3",
         "type": "tabs",
         "children": [
           {
-            "id": "f5219e3f791c491a",
+            "id": "ed2c1d8f8549c0df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Создание образов с помощью Dockerfile.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51f9c974f235e89a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Терминология и ключевые функции Docker.md",
-                "mode": "source",
+                "file": "Docker/Mapping томов.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Создание образов с помощью Dockerfile.md",
+                "file": "Docker/Mapping томов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Создание образов с помощью Dockerfile.md",
+                "file": "Docker/Mapping томов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Создание образов с помощью Dockerfile.md"
+                "file": "Docker/Mapping томов.md"
               }
             }
           }
@@ -167,12 +155,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f5219e3f791c491a",
+  "active": "ed2c1d8f8549c0df",
   "lastOpenFiles": [
-    "Docker/План изучения Docker.md",
+    "Docker/Docker Compose для запуска нескольких контейнеров.md",
+    "Docker/Mapping томов.md",
+    "media/Pasted image 20240511201405.png",
+    "media/Pasted image 20240511200856.png",
     "Docker/Создание образов с помощью Dockerfile.md",
-    "Docker/Терминология и ключевые функции Docker.md",
+    "Docker/План изучения Docker.md",
     "Docker/Скачивание образов и создание контейнеров.md",
+    "Docker/Терминология и ключевые функции Docker.md",
+    "DNS (Domain name server).md",
+    "Основные понятия в Python/Встроенные модули/smtplib.md",
+    "media/Pasted image 20240511173438.png",
+    "media/Pasted image 20240511173350.png",
+    "media/Pasted image 20240511173301.png",
     "media/Pasted image 20240509154723.png",
     "Присоединение томов к контейнерам для сохранения данных.md",
     "Django/Полезные факты.md",
@@ -194,18 +191,8 @@
     "Основные понятия в Python/Модули.md",
     "Основные понятия в Python/Рекурсивные функции.md",
     "Основные понятия в Python/Атрибуты и методы строк.md",
-    "Основные понятия в Python/Магические методы в классах.md",
-    "Основные понятия в Python/PIP - Package manager for Python.md",
-    "Основные понятия в Python/List (списки).md",
-    "Основные понятия в Python/Tuple (кортежи).md",
-    "Основные понятия в Python/Выражения и инструкции.md",
     "Docker/Без названия.canvas",
     "media/1695617955188.gif",
-    "media/superset.png",
-    "media/Pasted image 20230219212932.png",
-    "media/1 1.svg",
-    "media/Pasted image 20240501182748.png",
-    "media/1695617955188 1.gif",
     "Docker",
     "Основные понятия в Python/База.canvas",
     "NumPy",
