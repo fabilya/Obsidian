@@ -73,4 +73,15 @@ server: {
 docker exec -it time-app-frontend-1 sh
 cd src/components/
 cat Time.vue
+
 ```
+
+___
+
+>[!Изменения в backend приложении не обновлялись через nodemon в браузере при запросе на localhost:5555 при mapping тома контейнера с локальными файлами]
+>Решение
+>Добавил в конфиг `package.json` в `"dev"`- `-L` перед `index.mjs`
+>
+
+Пример `package.json`
+![[Pasted image 20240511225629.png]]

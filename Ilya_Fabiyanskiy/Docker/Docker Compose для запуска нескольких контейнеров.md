@@ -91,7 +91,7 @@ services:
       MYSQL_ROOT_PASSWORD: password  
       MYSQL_DATABASE: time_db  
     volumes:  
-      - mysql_data:/var/lib/mysql  
+      - mysql_data:/var/lib/mysql  # подключение тома контейнера с томом в Docker Host
   adminer:  
     image: adminer  
     restart: always  
@@ -99,5 +99,40 @@ services:
       - '8888:8080'  
   
 volumes:  
-  mysql_data:
+  mysql_data: # том находится в Docker Host, подключается к БД по пути /var/lib/mysql
+			  # с этим томом могут взаимодействовать любые контейнеры, картинка ниже
 ```
+![[Pasted image 20240511173438.png|400]]
+
+___
+
+***Добавление переменных среды в Docker-compose.yml для backend сервиса***
+Переменные можно менять только перед стартом приложения, когда приложения работают, переменные среды уже менять нельзя.
+
+```YAML
+api:  
+  build: ./api  
+  restart: always  
+  ports:  
+    - '5555:5000'  
+  depends_on:  
+    - mysql  
+  volumes:  
+    - /app/node_modules  
+    - ./api:/app
+  environment:
+    MYSQL_HOST: mysql  # совпадает с именем контейнера mysql
+    MYSQL_USER: root
+    MYSQL_PORT: '3306'
+    MYSQL_PASSWORD: password  # совпадает с БД для запуска локально
+    MYSQL_DB: time_db  # совпадает со значением БД
+mysql:  
+  image: mysql  
+    restart: always  
+  environment:
+    MYSQL_ROOT_PASSWORD: password  
+    MYSQL_DATABASE: time_db  
+  volumes:
+    - mysql_data:/var/lib/mysql  
+```
+
