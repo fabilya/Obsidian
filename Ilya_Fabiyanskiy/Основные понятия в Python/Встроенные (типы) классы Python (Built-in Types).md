@@ -14,7 +14,7 @@
 
 [[List (списки)]]
 [[Dictionary (словари)]]
-[[Set (наборы)]]
+[[Set (множество)]]
 [[User-defined classes]]
 
 

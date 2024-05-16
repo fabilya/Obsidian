@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основные понятия в Python/Операторы и операнды.md",
+                "file": "Git & GitHub/Ветки в GIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3595d302f4e9408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Интересные задачи с codewars.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Основные понятия в Python/Операторы и операнды.md",
+                "file": "Интересные задачи с codewars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Основные понятия в Python/Операторы и операнды.md",
+                "file": "Интересные задачи с codewars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Основные понятия в Python/Операторы и операнды.md"
+                "file": "Интересные задачи с codewars.md"
               }
             }
           }
@@ -168,47 +180,48 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "4a23e38e88b11c8c",
+  "active": "d3595d302f4e9408",
   "lastOpenFiles": [
+    "DNS (Domain name server).md",
+    "Полезные факты.md",
+    "Объектно-ориентированное программирование.md",
+    "Основные понятия в Python/Лямбда функции.md",
+    "Основные понятия в Python/Интерпретация и компиляция.md",
+    "Основные понятия в Python/GIL (Global Interpreter Lock).md",
+    "Основные понятия в Python/Генераторы.md",
     "Основные понятия в Python/Циклы.md",
-    "Основные понятия в Python/Встроенные модули.md",
-    "Основные понятия в Python/PIP - Package manager for Python.md",
-    "Docker/Терминология и ключевые функции Docker.md",
-    "Docker/Скачивание образов и создание контейнеров.md",
-    "Docker/Создание и загрузка образов на Docker Hub.md",
-    "Docker/Создание образов с помощью Dockerfile.md",
+    "Основные понятия в Python/Set (множество).md",
+    "Основные понятия в Python/Tuple (кортежи).md",
+    "Основные понятия в Python/List (списки).md",
+    "Основные понятия в Python/База.canvas",
+    "Основные понятия в Python/Распаковка (unpucking).md",
+    "Git & GitHub/Ветки в GIT.md",
     "Docker/План изучения Docker.md",
-    "Docker/Docker Compose для запуска нескольких контейнеров.md",
-    "Docker/Mapping томов.md",
+    "Основные понятия в Python/Операторы и операнды.md",
+    "Основные понятия в Python/Функции (function).md",
+    "Основные понятия в Python/Обработка ошибок.md",
+    "Основные понятия в Python/Условные инструкции (statements).md",
+    "Основные понятия в Python/Классы и объекты.md",
+    "Frontend/Без названия.md",
+    "media/http-layers.png",
+    "Frontend/Полезные ссылки.md",
+    "Git & GitHub/GitHub.md",
+    "Git & GitHub/Слияние веток.md",
+    "Git & GitHub",
+    "Git & GitHub/GIT.md",
+    "NumPy.md",
+    "Интересные задачи с codewars.md",
     "media/Pasted image 20240511225629.png",
     "media/Pasted image 20240511201405.png",
     "media/Pasted image 20240511200856.png",
-    "DNS (Domain name server).md",
-    "Основные понятия в Python/Встроенные модули/smtplib.md",
     "media/Pasted image 20240511173438.png",
     "media/Pasted image 20240511173350.png",
     "media/Pasted image 20240511173301.png",
     "media/Pasted image 20240509154723.png",
-    "Присоединение томов к контейнерам для сохранения данных.md",
-    "Django/Полезные факты.md",
-    "Django/Создание нового проекта.md",
-    "Полезные факты.md",
-    "Django/Введение в Django и паттерн MVC.md",
-    "Ветки в GIT.md",
-    "Слияние веток.md",
-    "GIT.md",
-    "GitHub.md",
-    "NumPy.md",
-    "Интересные задачи с codewars.md",
-    "Docker/Установка и запуск Docker.md",
     "media/523.png",
     "media/Pasted image 20240509105224.png",
-    "media/Pasted image 20240509104628.png",
-    "Основные понятия в Python/Лямбда функции.md",
-    "Основные понятия в Python/Работа с файлами.md",
     "Docker/Без названия.canvas",
     "Docker",
-    "Основные понятия в Python/База.canvas",
     "NumPy",
     "Frontend",
     "Основные понятия в Python/Встроенные функции",
@@ -217,7 +230,6 @@
     "Основные понятия в Python/Встроенные модули",
     "media",
     "Новая папка",
-    "Linux",
     "Без названия 1.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas"

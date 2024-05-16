@@ -10,7 +10,7 @@
 		{"id":"0d8e87a9d8696765","type":"text","text":"***Класс*** - это шаблон или прототип создания объектов. На основании одного класса можно создать много разных объектов (экземпляров).","x":-221,"y":-964,"width":283,"height":140,"color":"2"},
 		{"id":"db3ca66f07eb07ce","type":"text","text":"[***Встроенные функции***](https://docs.python.org/3/library/functions.html)","x":-511,"y":-964,"width":250,"height":60,"color":"6"},
 		{"id":"5434fb1b3f6a267e","type":"text","text":"[[Dictionary (словари)]] `dict`","x":321,"y":-744,"width":281,"height":60,"color":"4"},
-		{"id":"c9e26f6f2d1104ab","type":"text","text":"[[Set (наборы)]] `set`","x":321,"y":-664,"width":281,"height":60,"color":"4"},
+		{"id":"c9e26f6f2d1104ab","type":"text","text":"[[Set (множество)]] `set`","x":321,"y":-664,"width":281,"height":60,"color":"4"},
 		{"id":"72f038d22b207c45","type":"text","text":"магические методы","x":800,"y":-600,"width":160,"height":55,"color":"4"},
 		{"id":"efe78a3a36cce7b6","type":"text","text":"user-defined classes (пользовательские классы)","x":321,"y":-584,"width":281,"height":69,"color":"4"},
 		{"id":"101c14676af19557","type":"text","text":"***экземпляры класса*** (объекты)","x":1020,"y":-679,"width":226,"height":91,"color":"2"},
