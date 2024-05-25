@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "379f51c02721f630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Трудоустройство.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Объектно-ориентированное программирование.md",
+                "file": "Трудоустройство.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Объектно-ориентированное программирование.md",
+                "file": "Трудоустройство.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Объектно-ориентированное программирование.md"
+                "file": "Трудоустройство.md"
               }
             }
           }
@@ -180,19 +192,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3595d302f4e9408",
+  "active": "379f51c02721f630",
   "lastOpenFiles": [
+    "Django/Введение в Django и паттерн MVC.md",
+    "Django/Создание нового проекта.md",
+    "Django/Полезные факты.md",
+    "Трудоустройство.md",
+    "Объектно-ориентированное программирование.md",
     "Основные понятия в Python/Магические методы в классах.md",
     "Основные понятия в Python/Встроенные функции Python (Built-in Functions).md",
     "Основные понятия в Python/База.canvas",
     "Docker/Создание образов с помощью Dockerfile.md",
     "Docker/Создание и загрузка образов на Docker Hub.md",
     "Полезные факты.md",
-    "Объектно-ориентированное программирование.md",
     "Основные понятия в Python/Модули.md",
-    "Django/Введение в Django и паттерн MVC.md",
-    "Django/Создание нового проекта.md",
-    "Django/Полезные факты.md",
     "Основные понятия в Python/F-строки (f-strings).md",
     "Основные понятия в Python/Range (диапазоны).md",
     "Основные понятия в Python/Работа с файлами.md",
@@ -208,7 +221,6 @@
     "Основные понятия в Python/Генераторы.md",
     "Основные понятия в Python/Циклы.md",
     "Основные понятия в Python/Set (множество).md",
-    "Основные понятия в Python/Tuple (кортежи).md",
     "media/http-layers.png",
     "Git & GitHub",
     "media/Pasted image 20240511225629.png",
