@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Изучить.md",
+                "file": "Основные понятия в Python/Классы и объекты.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "магиче",
+                "query": "Аргумент",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Изучить.md",
+                "file": "Основные понятия в Python/Классы и объекты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Изучить.md",
+                "file": "Основные понятия в Python/Классы и объекты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Изучить.md"
+                "file": "Основные понятия в Python/Классы и объекты.md"
               }
             }
           }
@@ -157,34 +157,34 @@
   },
   "active": "d64e3dc96c44ca10",
   "lastOpenFiles": [
-    "Объектно-ориентированное программирование.md",
-    "Изучить.md",
-    "Docker/План изучения Docker.md",
-    "Docker/Создание образов с помощью Dockerfile.md",
-    "Docker/Создание и загрузка образов на Docker Hub.md",
-    "DNS (Domain name server).md",
-    "Полезные факты.md",
-    "Git & GitHub/Ветки в GIT.md",
-    "Основные понятия в Python/GIL (Global Interpreter Lock).md",
-    "NumPy.md",
-    "Интересные задачи с codewars.md",
-    "Трудоустройство/Трудоустройство.md",
-    "Трудоустройство",
-    "Django/Введение в Django и паттерн MVC.md",
-    "Django/Создание нового проекта.md",
-    "Django/Полезные факты.md",
     "Основные понятия в Python/Магические методы в классах.md",
-    "Основные понятия в Python/Встроенные функции Python (Built-in Functions).md",
-    "Основные понятия в Python/База.canvas",
-    "Основные понятия в Python/Модули.md",
+    "Основные понятия в Python/Классы и объекты.md",
+    "Объектно-ориентированное программирование.md",
+    "Основные понятия в Python/Функции (function).md",
+    "Основные понятия в Python/Параметры функции.md",
+    "Основные понятия в Python/Аргументы функций.md",
+    "Полезные факты.md",
+    "DNS (Domain name server).md",
     "Основные понятия в Python/F-строки (f-strings).md",
-    "Основные понятия в Python/Range (диапазоны).md",
-    "Основные понятия в Python/Работа с файлами.md",
-    "Git & GitHub/GIT.md",
-    "Git & GitHub/Слияние веток.md",
+    "Основные понятия в Python/Условные инструкции (statements).md",
+    "Основные понятия в Python/Распаковка (unpucking).md",
+    "Основные понятия в Python/Декораторы.md",
+    "NumPy.md",
+    "Основные понятия в Python/List (списки).md",
+    "Основные понятия в Python/Dictionary (словари).md",
+    "Основные понятия в Python/Рекурсивные функции.md",
+    "Основные понятия в Python/Атрибуты и методы строк.md",
+    "Основные понятия в Python/Встроенные функции Python (Built-in Functions).md",
+    "Основные понятия в Python/Встроенные (типы) классы Python (Built-in Types).md",
+    "Интересные задачи с codewars.md",
+    "Основные понятия в Python/Встроенные функции/zip().md",
+    "Основные понятия в Python/Встроенные функции/filter().md",
     "Основные понятия в Python/Лямбда функции.md",
-    "Основные понятия в Python/Интерпретация и компиляция.md",
-    "Основные понятия в Python/Генераторы.md",
+    "Основные понятия в Python/Операторы и операнды.md",
+    "Основные понятия в Python/Выражения и инструкции.md",
+    "Основные понятия в Python/Обработка ошибок.md",
+    "Трудоустройство",
+    "Основные понятия в Python/База.canvas",
     "media/http-layers.png",
     "Git & GitHub",
     "media/Pasted image 20240511225629.png",
