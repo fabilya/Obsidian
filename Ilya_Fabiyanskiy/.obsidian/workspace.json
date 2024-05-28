@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e197157a4e2d7ba3",
+        "id": "f9ea5ddad08c1754",
         "type": "tabs",
         "children": [
           {
-            "id": "ed2c1d8f8549c0df",
+            "id": "d64e3dc96c44ca10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/План изучения Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a23e38e88b11c8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git & GitHub/Ветки в GIT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3595d302f4e9408",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Объектно-ориентированное программирование.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "379f51c02721f630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Трудоустройство.md",
+                "file": "Изучить.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Трудоустройство.md",
+                "file": "Изучить.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Трудоустройство.md",
+                "file": "Изучить.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Трудоустройство.md"
+                "file": "Изучить.md"
               }
             }
           }
@@ -192,35 +155,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "379f51c02721f630",
+  "active": "d64e3dc96c44ca10",
   "lastOpenFiles": [
+    "Объектно-ориентированное программирование.md",
+    "Изучить.md",
+    "Docker/План изучения Docker.md",
+    "Docker/Создание образов с помощью Dockerfile.md",
+    "Docker/Создание и загрузка образов на Docker Hub.md",
+    "DNS (Domain name server).md",
+    "Полезные факты.md",
+    "Git & GitHub/Ветки в GIT.md",
+    "Основные понятия в Python/GIL (Global Interpreter Lock).md",
+    "NumPy.md",
+    "Интересные задачи с codewars.md",
+    "Трудоустройство/Трудоустройство.md",
+    "Трудоустройство",
     "Django/Введение в Django и паттерн MVC.md",
     "Django/Создание нового проекта.md",
     "Django/Полезные факты.md",
-    "Трудоустройство.md",
-    "Объектно-ориентированное программирование.md",
     "Основные понятия в Python/Магические методы в классах.md",
     "Основные понятия в Python/Встроенные функции Python (Built-in Functions).md",
     "Основные понятия в Python/База.canvas",
-    "Docker/Создание образов с помощью Dockerfile.md",
-    "Docker/Создание и загрузка образов на Docker Hub.md",
-    "Полезные факты.md",
     "Основные понятия в Python/Модули.md",
     "Основные понятия в Python/F-строки (f-strings).md",
     "Основные понятия в Python/Range (диапазоны).md",
     "Основные понятия в Python/Работа с файлами.md",
-    "DNS (Domain name server).md",
     "Git & GitHub/GIT.md",
     "Git & GitHub/Слияние веток.md",
-    "Git & GitHub/Ветки в GIT.md",
-    "NumPy.md",
-    "Интересные задачи с codewars.md",
     "Основные понятия в Python/Лямбда функции.md",
     "Основные понятия в Python/Интерпретация и компиляция.md",
-    "Основные понятия в Python/GIL (Global Interpreter Lock).md",
     "Основные понятия в Python/Генераторы.md",
-    "Основные понятия в Python/Циклы.md",
-    "Основные понятия в Python/Set (множество).md",
     "media/http-layers.png",
     "Git & GitHub",
     "media/Pasted image 20240511225629.png",
@@ -241,7 +205,6 @@
     "Frontend/Шаблоны HTML",
     "Основные понятия в Python/Встроенные модули",
     "media",
-    "Новая папка",
     "Без названия 1.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas"
