@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git & GitHub/GitHub.md",
+                "file": "SQL/Основы.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git & GitHub/GitHub.md",
+                "file": "SQL/Основы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git & GitHub/GitHub.md",
+                "file": "SQL/Основы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git & GitHub/GitHub.md"
+                "file": "SQL/Основы.md"
               }
             }
           }
@@ -157,6 +157,11 @@
   },
   "active": "d64e3dc96c44ca10",
   "lastOpenFiles": [
+    "SQL/INSERT.md",
+    "SQL/Основы.md",
+    "Изучить.md",
+    "SQL",
+    "Git & GitHub/GitHub.md",
     "Основные понятия в Python/Классы и объекты.md",
     "Основные понятия в Python/Встроенные модули.md",
     "Основные понятия в Python/Встроенные функции/map().md",
@@ -179,10 +184,6 @@
     "Основные понятия в Python/Область видимости.md",
     "Основные понятия в Python/Изменение объектов в Python.md",
     "Основные понятия в Python/Параметры функции.md",
-    "Основные понятия в Python/Range (диапазоны).md",
-    "Основные понятия в Python/Работа с файлами.md",
-    "Основные понятия в Python/List (списки).md",
-    "Основные понятия в Python/Tuple (кортежи).md",
     "Основные понятия в Python/База.canvas",
     "Трудоустройство",
     "media/http-layers.png",
@@ -204,7 +205,6 @@
     "Django",
     "Frontend/Шаблоны HTML",
     "Основные понятия в Python/Встроенные модули",
-    "media",
     "Без названия 1.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas"
