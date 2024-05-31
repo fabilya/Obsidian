@@ -15,11 +15,25 @@
               "state": {
                 "file": "SQL/Основы.md",
                 "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a060e98fd012373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Основные понятия в Python/Классы и объекты.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "comment = 0",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Основы.md",
+                "file": "Основные понятия в Python/Классы и объекты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Основы.md",
+                "file": "Основные понятия в Python/Классы и объекты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Основы.md"
+                "file": "Основные понятия в Python/Классы и объекты.md"
               }
             }
           }
@@ -147,23 +162,41 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d64e3dc96c44ca10",
+  "active": "8a060e98fd012373",
   "lastOpenFiles": [
+    "SQL/WHERE.md",
+    "SQL/SELECT.md",
     "SQL/INSERT.md",
     "SQL/Основы.md",
+    "SQL/GROUP BY.md",
+    "media/Pasted image 20240530180835.png",
+    "SQL/ORDER_BY.md",
+    "SQL/Агрегирующие функции.md",
+    "media/Pasted image 20240530175831.png",
+    "media/Pasted image 20240530175824.png",
+    "Основные понятия в Python/Set (множество).md",
+    "Основные понятия в Python/Встроенные модули.md",
+    "Основные понятия в Python/Встроенные модули/re.md",
+    "Основные понятия в Python/Встроенные модули/secrets.md",
+    "Основные понятия в Python/Встроенные модули/sys.md",
+    "Основные понятия в Python/Встроенные модули/math.md",
+    "Основные понятия в Python/Встроенные модули/statistics.md",
+    "Основные понятия в Python/Встроенные модули/string.md",
+    "media/db_video 1.sqlite",
+    "media/db_video.sqlite",
+    "media/Pasted image 20240530145945.png",
     "Изучить.md",
     "SQL",
     "Git & GitHub/GitHub.md",
     "Основные понятия в Python/Классы и объекты.md",
-    "Основные понятия в Python/Встроенные модули.md",
     "Основные понятия в Python/Встроенные функции/map().md",
     "Основные понятия в Python/Встроенные функции/filter().md",
     "Основные понятия в Python/Встроенные функции/all().md",
@@ -171,19 +204,6 @@
     "Основные понятия в Python/Встроенные функции/isinstance().md",
     "Основные понятия в Python/Встроенные функции/Встроенные функции Python (Built-in Functions).md",
     "Основные понятия в Python/Встроенные модули/pathlib.md",
-    "Полезные факты.md",
-    "Основные понятия в Python/Встроенные функции/zip().md",
-    "Основные понятия в Python/Встроенные модули/string.md",
-    "Основные понятия в Python/Встроенные модули/statistics.md",
-    "Основные понятия в Python/Атрибуты и методы строк.md",
-    "Основные понятия в Python/Рекурсивные функции.md",
-    "Основные понятия в Python/PIP - Package manager for Python.md",
-    "Основные понятия в Python/Dictionary (словари).md",
-    "Основные понятия в Python/Операторы и операнды.md",
-    "Основные понятия в Python/Функции (function).md",
-    "Основные понятия в Python/Область видимости.md",
-    "Основные понятия в Python/Изменение объектов в Python.md",
-    "Основные понятия в Python/Параметры функции.md",
     "Основные понятия в Python/База.canvas",
     "Трудоустройство",
     "media/http-layers.png",
@@ -193,18 +213,12 @@
     "media/Pasted image 20240511200856.png",
     "media/Pasted image 20240511173438.png",
     "media/Pasted image 20240511173350.png",
-    "media/Pasted image 20240511173301.png",
-    "media/Pasted image 20240509154723.png",
-    "media/523.png",
-    "media/Pasted image 20240509105224.png",
     "Docker/Без названия.canvas",
     "Docker",
     "NumPy",
     "Frontend",
     "Основные понятия в Python/Встроенные функции",
     "Django",
-    "Frontend/Шаблоны HTML",
-    "Основные понятия в Python/Встроенные модули",
     "Без названия 1.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas"

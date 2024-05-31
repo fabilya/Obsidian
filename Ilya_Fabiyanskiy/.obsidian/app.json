@@ -2,5 +2,6 @@
   "promptDelete": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "media",
-  "userIgnoreFilters": null
+  "userIgnoreFilters": null,
+  "newFileLocation": "current"
 }
