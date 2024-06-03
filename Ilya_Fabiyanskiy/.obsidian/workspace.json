@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Основы.md",
+                "file": "Основные понятия в Python/Классы и объекты.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основные понятия в Python/Классы и объекты.md",
+                "file": "Объектно-ориентированное программирование.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "comment = 0",
+                "query": "__new__",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +87,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Основные понятия в Python/Классы и объекты.md",
+                "file": "Объектно-ориентированное программирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Основные понятия в Python/Классы и объекты.md",
+                "file": "Объектно-ориентированное программирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Основные понятия в Python/Классы и объекты.md"
+                "file": "Объектно-ориентированное программирование.md"
               }
             }
           }
@@ -172,10 +171,20 @@
   },
   "active": "8a060e98fd012373",
   "lastOpenFiles": [
+    "Паттерн проектирования Singleton.md",
+    "Основные понятия в Python/Классы и объекты.md",
+    "SQL/Основы.md",
+    "Объектно-ориентированное программирование.md",
+    "NumPy.md",
+    "Интересные задачи с codewars.md",
+    "DNS (Domain name server).md",
+    "Полезные факты.md",
+    "Изучить.md",
+    "Основные понятия в Python/Изменение объектов в Python.md",
+    "Основные понятия в Python/Лямбда функции.md",
     "SQL/WHERE.md",
     "SQL/SELECT.md",
     "SQL/INSERT.md",
-    "SQL/Основы.md",
     "SQL/GROUP BY.md",
     "media/Pasted image 20240530180835.png",
     "SQL/ORDER_BY.md",
@@ -193,17 +202,8 @@
     "media/db_video 1.sqlite",
     "media/db_video.sqlite",
     "media/Pasted image 20240530145945.png",
-    "Изучить.md",
     "SQL",
     "Git & GitHub/GitHub.md",
-    "Основные понятия в Python/Классы и объекты.md",
-    "Основные понятия в Python/Встроенные функции/map().md",
-    "Основные понятия в Python/Встроенные функции/filter().md",
-    "Основные понятия в Python/Встроенные функции/all().md",
-    "Основные понятия в Python/Встроенные функции/enumerate().md",
-    "Основные понятия в Python/Встроенные функции/isinstance().md",
-    "Основные понятия в Python/Встроенные функции/Встроенные функции Python (Built-in Functions).md",
-    "Основные понятия в Python/Встроенные модули/pathlib.md",
     "Основные понятия в Python/База.canvas",
     "Трудоустройство",
     "media/http-layers.png",
