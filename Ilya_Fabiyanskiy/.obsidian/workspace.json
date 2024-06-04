@@ -8,32 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d64e3dc96c44ca10",
+            "id": "7c75eb096067671a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основные понятия в Python/Классы и объекты.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a060e98fd012373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Объектно-ориентированное программирование.md",
+                "file": "ООП/Методы класса (classmethod) и статические методы (staticmethod).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "__new__",
+                "query": "name",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Объектно-ориентированное программирование.md",
+                "file": "ООП/Методы класса (classmethod) и статические методы (staticmethod).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Объектно-ориентированное программирование.md",
+                "file": "ООП/Методы класса (classmethod) и статические методы (staticmethod).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Объектно-ориентированное программирование.md"
+                "file": "ООП/Методы класса (classmethod) и статические методы (staticmethod).md"
               }
             }
           }
@@ -169,41 +156,46 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8a060e98fd012373",
+  "active": "7c995d1a484c6e45",
   "lastOpenFiles": [
-    "Паттерн проектирования Singleton.md",
+    "ООП/Объектно-ориентированное программирование.md",
+    "ООП/Методы класса (classmethod) и статические методы (staticmethod).md",
+    "ООП/Паттерн проектирования Singleton.md",
     "Основные понятия в Python/Классы и объекты.md",
+    "Основные понятия в Python/Встроенные функции/map().md",
+    "Изучить.md",
+    "ООП",
     "SQL/Основы.md",
-    "Объектно-ориентированное программирование.md",
+    "SQL/INSERT.md",
+    "SQL/ORDER_BY.md",
+    "SQL/SELECT.md",
+    "SQL/WHERE.md",
+    "SQL/Агрегирующие функции.md",
+    "SQL/GROUP BY.md",
+    "SQL",
+    "Полезные факты.md",
+    "Основные понятия в Python/Set (множество).md",
+    "Базы данных/Основные понятия.md",
+    "Базы данных/SQL/Основы.md",
+    "media/Pasted image 20240604083939.png",
+    "Базы данных",
+    "Базы данных/SQL/Агрегирующие функции.md",
+    "Основные понятия в Python/ООП/Декораторы @classmethod и @staticmethod.md",
+    "Основные понятия в Python/ООП/Объектно-ориентированное программирование.md",
+    "Основные понятия в Python/ООП",
     "NumPy.md",
     "Интересные задачи с codewars.md",
     "DNS (Domain name server).md",
-    "Полезные факты.md",
-    "Изучить.md",
     "Основные понятия в Python/Изменение объектов в Python.md",
     "Основные понятия в Python/Лямбда функции.md",
-    "SQL/WHERE.md",
-    "SQL/SELECT.md",
-    "SQL/INSERT.md",
-    "SQL/GROUP BY.md",
+    "Базы данных/SQL/WHERE.md",
     "media/Pasted image 20240530180835.png",
-    "SQL/ORDER_BY.md",
-    "SQL/Агрегирующие функции.md",
     "media/Pasted image 20240530175831.png",
     "media/Pasted image 20240530175824.png",
-    "Основные понятия в Python/Set (множество).md",
-    "Основные понятия в Python/Встроенные модули.md",
-    "Основные понятия в Python/Встроенные модули/re.md",
-    "Основные понятия в Python/Встроенные модули/secrets.md",
-    "Основные понятия в Python/Встроенные модули/sys.md",
-    "Основные понятия в Python/Встроенные модули/math.md",
-    "Основные понятия в Python/Встроенные модули/statistics.md",
-    "Основные понятия в Python/Встроенные модули/string.md",
     "media/db_video 1.sqlite",
     "media/db_video.sqlite",
     "media/Pasted image 20240530145945.png",
-    "SQL",
-    "Git & GitHub/GitHub.md",
+    "Базы данных/SQL",
     "Основные понятия в Python/База.canvas",
     "Трудоустройство",
     "media/http-layers.png",
@@ -212,13 +204,8 @@
     "media/Pasted image 20240511201405.png",
     "media/Pasted image 20240511200856.png",
     "media/Pasted image 20240511173438.png",
-    "media/Pasted image 20240511173350.png",
     "Docker/Без названия.canvas",
     "Docker",
-    "NumPy",
-    "Frontend",
-    "Основные понятия в Python/Встроенные функции",
-    "Django",
     "Без названия 1.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas"
