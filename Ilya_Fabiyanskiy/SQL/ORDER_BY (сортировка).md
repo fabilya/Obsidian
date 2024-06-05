@@ -66,5 +66,20 @@ LIMIT <сколько строк нужно показать> OFFSET <на ск�
 - `ORDER BY`
 - `LIMIT OFFSET`
 
+
+```SQL
+SELECT DISTINCT country
+FROM customers
+ORDER BY country ASC;
+
+SELECT DISTINCT country
+FROM customers
+ORDER BY country DESC;
+
+SELECT DISTINCT country, city
+FROM customers
+ORDER BY country DESC, city ASC
+```
+
 [[Агрегирующие функции]]
 

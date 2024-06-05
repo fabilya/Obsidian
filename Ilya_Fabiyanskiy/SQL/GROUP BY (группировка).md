@@ -62,3 +62,49 @@ GROUP BY product_type
 HAVING SUM(gross) IS NOT NULL;
 -- ('Фильм', 318868922) 
 ```
+
+```SQL
+SELECT ship_country, COUNT(*)
+FROM orders
+WHERE freight > 50
+GROUP BY ship_country
+ORDER BY COUNT(*) DESC;
+	"ship_country"	"count"
+	"USA"	    61
+	"Germany"	58
+	"Austria"	33
+	"Brazil"	32
+	"France"	27
+	"Venezuela"	20
+	"Sweden"	20
+	"UK"	    17
+	"Canada"	13
+	"Ireland"	12
+	"Mexico"	9
+	"Switzerland" 9
+	"Denmark"	9
+	"Belgium"	8
+	"Spain"	    7
+	"Finland"	6
+	"Italy"	    6
+	"Portugal"	6
+	"Norway"	3
+	"Argentina"	3
+	"Poland"	1
+
+
+
+SELECT category_id, SUM(units_in_stock)
+FROM products
+GROUP BY category_id
+ORDER BY SUM(units_in_stock) DESC
+	"category_id"	"sum"
+	8	701
+	1	559
+	2	507
+	4	393
+	3	386
+	5	308
+	6	165
+	7	100
+```
