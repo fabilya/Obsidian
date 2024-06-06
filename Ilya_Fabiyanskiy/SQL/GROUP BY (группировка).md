@@ -49,21 +49,9 @@ GROUP BY product_type;
 */
 ```
 
-### HAVING фильтрация групп
-Работа `HAVING` во многом аналогична применению `WHERE`; но `WHERE` применяется для фильтрации строк, а `HAVING` — для фильтрации групп
-
-Исключим из выборки все группы, в которых сумма кассовых сборов равна `NULL`:
+___
 ```SQL
-SELECT product_type,
-       SUM(gross)
-FROM video_products
-GROUP BY product_type
--- Это условие относится к группам:
-HAVING SUM(gross) IS NOT NULL;
--- ('Фильм', 318868922) 
-```
-
-```SQL
+-- Страна отправитель и количество заказов весом выше 50 кг
 SELECT ship_country, COUNT(*)
 FROM orders
 WHERE freight > 50
@@ -92,8 +80,7 @@ ORDER BY COUNT(*) DESC;
 	"Argentina"	3
 	"Poland"	1
 
-
-
+-- Категория и сумма продуктов этой категории на складе
 SELECT category_id, SUM(units_in_stock)
 FROM products
 GROUP BY category_id
@@ -108,3 +95,7 @@ ORDER BY SUM(units_in_stock) DESC
 	6	165
 	7	100
 ```
+
+[[HAVING (фильтрация по группам)]]
+
+
