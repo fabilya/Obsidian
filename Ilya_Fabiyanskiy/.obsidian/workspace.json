@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ООП/Методы класса (classmethod) и статические методы (staticmethod).md",
+                "file": "SQL/DDL (Data Definition Language)/DDL (манипулирование данными).md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "name",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,12 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 595.5
   },
   "right": {
     "id": "7b7167b30395fcb7",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ООП/Методы класса (classmethod) и статические методы (staticmethod).md",
+                "file": "SQL/DDL (Data Definition Language)/DDL (манипулирование данными).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ООП/Методы класса (classmethod) и статические методы (staticmethod).md",
+                "file": "SQL/DDL (Data Definition Language)/DDL (манипулирование данными).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ООП/Методы класса (classmethod) и статические методы (staticmethod).md"
+                "file": "SQL/DDL (Data Definition Language)/DDL (манипулирование данными).md"
               }
             }
           }
@@ -156,56 +155,56 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7c995d1a484c6e45",
+  "active": "7c75eb096067671a",
   "lastOpenFiles": [
-    "ООП/Объектно-ориентированное программирование.md",
-    "ООП/Методы класса (classmethod) и статические методы (staticmethod).md",
-    "ООП/Паттерн проектирования Singleton.md",
-    "Основные понятия в Python/Классы и объекты.md",
-    "Основные понятия в Python/Встроенные функции/map().md",
-    "Изучить.md",
-    "ООП",
+    "Без названия.canvas",
+    "SQL/DDL (Data Definition Language)/DDL (манипулирование данными).md",
     "SQL/Основы.md",
-    "SQL/INSERT.md",
-    "SQL/ORDER_BY.md",
-    "SQL/SELECT.md",
-    "SQL/WHERE.md",
-    "SQL/Агрегирующие функции.md",
-    "SQL/GROUP BY.md",
+    "Изучить.md",
+    "DNS (Domain name server).md",
+    "SQL/DISTINCT (уникальность).md",
+    "SQL/Ключевые слова в SQL.md",
+    "SQL/BETWEEN (между).md",
+    "SQL/LIKE (Pattern Matching - соответствие шаблону).md",
+    "SQL/SELF JOIN.md",
+    "SQL/USING & NATURAL JOIN.md",
+    "SQL/AS (псевдонимы).md",
+    "SQL/Используемая БД для обучения.md",
+    "SQL/Подзапросы/Подзапросы.md",
+    "SQL/Подзапросы/WHERE EXISTS.md",
+    "SQL/Подзапросы/ANY, ALL (квантификаторы).md",
+    "SQL/Подзапросы/ДЗ_подзапросы.md",
+    "PostgreSQL/Основные понятия.md",
+    "PostgreSQL/многие ко многим.md",
+    "Git & GitHub/GitHub.md",
+    "Git & GitHub/GIT.md",
+    "Git & GitHub/Ветки в GIT.md",
+    "Git & GitHub/Слияние веток.md",
+    "SQL/UNION, INTERSECT, EXCEPT.md",
+    "SQL/HAVING (фильтрация по группам).md",
+    "SQL/NULL & NOT NULL.md",
+    "SQL/DDL (Data Definition Language)",
+    "SQL/Подзапросы",
+    "media/Pasted image 20240605140410.png",
+    "media/Pasted image 20240605140409.png",
+    "media/Pasted image 20240605140401.png",
+    "media/Pasted image 20240605140357.png",
+    "media/Pasted image 20240605140341.png",
+    "media/Pasted image 20240604175407.png",
+    "PostgreSQL",
+    "media/Pasted image 20240604165721.png",
+    "ООП",
     "SQL",
-    "Полезные факты.md",
-    "Основные понятия в Python/Set (множество).md",
-    "Базы данных/Основные понятия.md",
-    "Базы данных/SQL/Основы.md",
     "media/Pasted image 20240604083939.png",
     "Базы данных",
-    "Базы данных/SQL/Агрегирующие функции.md",
-    "Основные понятия в Python/ООП/Декораторы @classmethod и @staticmethod.md",
-    "Основные понятия в Python/ООП/Объектно-ориентированное программирование.md",
     "Основные понятия в Python/ООП",
-    "NumPy.md",
-    "Интересные задачи с codewars.md",
-    "DNS (Domain name server).md",
-    "Основные понятия в Python/Изменение объектов в Python.md",
-    "Основные понятия в Python/Лямбда функции.md",
-    "Базы данных/SQL/WHERE.md",
     "media/Pasted image 20240530180835.png",
     "media/Pasted image 20240530175831.png",
-    "media/Pasted image 20240530175824.png",
     "media/db_video 1.sqlite",
     "media/db_video.sqlite",
-    "media/Pasted image 20240530145945.png",
     "Базы данных/SQL",
     "Основные понятия в Python/База.canvas",
-    "Трудоустройство",
-    "media/http-layers.png",
-    "Git & GitHub",
-    "media/Pasted image 20240511225629.png",
-    "media/Pasted image 20240511201405.png",
-    "media/Pasted image 20240511200856.png",
-    "media/Pasted image 20240511173438.png",
     "Docker/Без названия.canvas",
-    "Docker",
     "Без названия 1.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas"

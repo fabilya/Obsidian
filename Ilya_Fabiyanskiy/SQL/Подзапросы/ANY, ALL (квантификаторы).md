@@ -65,3 +65,4 @@ WHERE quantity > ALL (SELECT AVG(quantity)
 ORDER BY quantity 
 ```
 
+
